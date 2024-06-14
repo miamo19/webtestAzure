@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "n2/CglinvGI=",
+  "success": false,
+  "projectFilePath": "D:\\Projects\\terraform_projects\\githubClonerepo\\terraform-lesson\\ProductApp\\ProductApp\\ProductApp\\ProductApp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'System.Data.SqlClient (>= 4.8.3)' for '.NETCoreApp,Version=v3.1'. PackageSourceMapping is enabled, the following source(s) were not considered: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages.",
+      "libraryId": "System.Data.SqlClient",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
